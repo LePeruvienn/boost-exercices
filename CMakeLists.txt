@@ -35,7 +35,8 @@ add_subdirectory(timer-2)
 add_subdirectory(timer-3)
 add_subdirectory(timer-4)
 
-add_subdirectory(client)
-add_subdirectory(server-1)
-add_subdirectory(server-2)
+add_subdirectory(tcp-client)
+add_subdirectory(tcp-server-1)
+add_subdirectory(tcp-server-2)
 
+add_subdirectory(http-client)

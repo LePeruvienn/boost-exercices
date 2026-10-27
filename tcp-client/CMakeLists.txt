@@ -1,4 +1,4 @@
-set(EXERCICE_NAME "client")
+set(EXERCICE_NAME "tcp-client")
 
 add_executable(${EXERCICE_NAME}
 	main.cpp
